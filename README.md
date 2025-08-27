@@ -22,7 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luv219&show_icons=true&locale=en" alt="luv219" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luv219&" alt="luv219" /></p>
 
 ### 🐍 GitHub Contribution Snake
 
