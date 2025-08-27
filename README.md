@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Luv Gupta</h1>
-<h3 align="center">A passionate Machine Learning engineer and Software developer from India</h3>
+# Hi 👋, I'm Luv Gupta
+### A passionate Machine Learning Engineer and Software Developer from India
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luv219&label=Profile%20views&color=0e75b6&style=flat" alt="luv219" /> </p>
+![Profile views](https://komarev.com/ghpvc/?username=luv219&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luv219" alt="luv219" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=luv219&theme=onedark&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 📫 How to reach me **luv.g1902@gmail.com**
 
