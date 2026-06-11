@@ -6,8 +6,8 @@
 </p>
 
 <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=luv219" alt="luv219" />
+  <a href="https://github.com/lucthienphong1120/github-trophies">
+    <img src="https://github-trophies.vercel.app/?username=luv219" alt="luv219" />
   </a> 
 </p>
 
@@ -115,7 +115,6 @@
   </a> 
 </p>
 
-<!-- GitHub Stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luv219&show_icons=true&locale=en&layout=compact&cache_seconds=60" alt="luv219" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luv219&show_icons=true&locale=en&cache_seconds=60" alt="luv219" /></p>
